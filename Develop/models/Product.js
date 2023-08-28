@@ -1,3 +1,4 @@
+//TODO
 // import important parts of sequelize library
 const { Model} = require('sequelize');
 // import our database connection from config.js

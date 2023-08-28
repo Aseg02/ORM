@@ -1,6 +1,4 @@
 //TODO
-
-
 const router = require('express').Router();
 import { Category, Product } from '../../models';
 
